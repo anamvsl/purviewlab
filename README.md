@@ -1,4 +1,5 @@
 # Microsoft Purview Workshop
+![image](https://github.com/user-attachments/assets/242dc74c-7b0a-4abe-88b9-0ca8691c0e49)
 
 ## What is Microsoft Purview?
 
